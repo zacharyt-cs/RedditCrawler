@@ -1,14 +1,6 @@
 # Introduction
 A python notebook that uses Pushshift API to crawl content from Reddit.
 
-## :ledger: Index
-
-- [About](#beginner-about)
-- [Usage](#zap-usage)
-  - [Instructions](#package-instructions)
-- [Resources](#page_facing_up-resources)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
-
 ##  :beginner: About
 Just a simple python notebook.
 
